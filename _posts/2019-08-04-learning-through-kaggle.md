@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My learning journey with the 2019 IEEE Fraud Detection Kaggle Competition
-subtitle: One neophyte
+subtitle: Using LGBM and H20
 bigimg: /img/path.jpg
 gh-repo: andre-sav/ieee_fraud
 gh-badge: [star, fork, follow]
