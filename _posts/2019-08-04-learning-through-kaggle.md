@@ -32,6 +32,6 @@ Somewhat controversial in the sphere of machine learning is the topic of model i
 
 This graph portrays the level of influence each particular feature in a model has on the target variable as judged by the model. In the case of binary classification, such as the dataset I worked with, it is how much value the model assigns to each variable to ascertain whether a transaction is fraudulent or not.
 
-In conclusion, I believe this is a great dataset to learn from as it presents a real-world problem with entailing complications. I look forward to learning of the winners and their strategies upon the conclusion of the competition. Perhaps I will try to work with it again in the future after honing my own skillset. 
+**In conclusion, I believe this is a great dataset to learn from as it presents a real-world problem with entailing complications.** I look forward to learning of the winners and their strategies upon the conclusion of the competition. Perhaps I will try to work with it again in the future after honing my own skillset. 
 
-
+[Click here to view the jupyter notebook](https://github.com/andre-sav/ieee_fraud)
